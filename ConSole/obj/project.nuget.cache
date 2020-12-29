@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZk0Fg/xa7U4fAxesaSrxW86mlkz8tlpa3hG+lJhhvBvRdNP0ZDObdP1u9mSK+bYmS6NGvw+vKhYtC6cG7YtUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suhov\\Desktop\\sharp\\ConSole\\ConSole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suhov\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

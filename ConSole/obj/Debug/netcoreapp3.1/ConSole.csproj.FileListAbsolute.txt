@@ -1,0 +1,17 @@
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\ConSole.exe
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\ConSole.deps.json
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\ConSole.runtimeconfig.json
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\ConSole.runtimeconfig.dev.json
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\ConSole.dll
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\ConSole.pdb
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\suhov\Desktop\sharp\ConSole\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.csprojAssemblyReference.cache
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.AssemblyInfoInputs.cache
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.AssemblyInfo.cs
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.csproj.CoreCompileInputs.cache
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.csproj.CopyComplete
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.dll
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.pdb
+C:\Users\suhov\Desktop\sharp\ConSole\obj\Debug\netcoreapp3.1\ConSole.genruntimeconfig.cache
