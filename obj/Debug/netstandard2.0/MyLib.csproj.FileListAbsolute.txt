@@ -1,0 +1,9 @@
+C:\Users\suhov\Desktop\sharp\MyLib\bin\Debug\netstandard2.0\MyLib.deps.json
+C:\Users\suhov\Desktop\sharp\MyLib\bin\Debug\netstandard2.0\MyLib.dll
+C:\Users\suhov\Desktop\sharp\MyLib\bin\Debug\netstandard2.0\MyLib.pdb
+C:\Users\suhov\Desktop\sharp\MyLib\obj\Debug\netstandard2.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\suhov\Desktop\sharp\MyLib\obj\Debug\netstandard2.0\MyLib.AssemblyInfo.cs
+C:\Users\suhov\Desktop\sharp\MyLib\obj\Debug\netstandard2.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\suhov\Desktop\sharp\MyLib\obj\Debug\netstandard2.0\MyLib.dll
+C:\Users\suhov\Desktop\sharp\MyLib\obj\Debug\netstandard2.0\MyLib.pdb
+C:\Users\suhov\Desktop\sharp\MyLib\obj\Debug\netstandard2.0\MyLib.csprojAssemblyReference.cache
